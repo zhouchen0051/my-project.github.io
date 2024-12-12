@@ -1,1 +1,10 @@
+/self-introduction-website  
+│  
+├── index.html          // 首页  
+├── about.html          // 关于我  
+├── skills.html         // 技能  
+├── experience.html      // 工作经历  
+├── contact.html         // 联系我  
+├── styles.css          // 样式  
+└── profile.jpg         // 个人照片（如果需要）
 
