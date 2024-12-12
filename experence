@@ -1,0 +1,44 @@
+<!DOCTYPE html>  
+<html lang="zh">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>工作经历</title>  
+    <link rel="stylesheet" href="styles.css">  
+</head>  
+<body>  
+    <header>  
+        <h1>工作经历</h1>  
+        <nav>  
+            <ul>  
+                <li><a href="index.html">首页</a></li>  
+                <li><a href="about.html">关于我</a></li>  
+                <li><a href="skills.html">技能</a></li>  
+                <li><a href="experience.html">工作经历</a></li>  
+                <li><a href="contact.html">联系我</a></li>  
+            </ul>  
+        </nav>  
+    </header>  
+    <main>  
+        <h2>我的工作经历</h2>  
+        <ul>  
+            <li><strong>[米哈游]</strong> - [CEO] (2011-2012)  
+                <ul>  
+                    <li>负责[美术/原神]</li>  
+                    <li>取得了[ ]</li>  
+                </ul>  
+            </li>  
+            <li><strong>[腾讯]</strong> - [CEO] (2012-2022)  
+                <ul>  
+                    <li>参与了[策划/王者荣耀]</li>  
+                    <li>获得了[  ]</li>  
+                </ul>  
+            </li>  
+            <!-- 可以继续添加更多工作经历 -->  
+        </ul>  
+    </main>  
+    <footer>  
+        <p>© 2024 周晨. 保留所有权利.</p>  
+    </footer>  
+</body>  
+</html>
