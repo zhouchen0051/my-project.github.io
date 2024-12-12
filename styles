@@ -1,0 +1,139 @@
+body {  
+    font-family: Arial, sans-serif;  
+    margin: 0;  
+    padding: 0;  
+    line-height: 1.6;  
+}  
+
+header {  
+    background-color: #4CAF50;  
+    color: white;  
+    padding: 10px 0;  
+    text-align: center;  
+}  
+
+nav ul {  
+    list-style-type: none;  
+    padding: 0;  
+}  
+
+nav ul li {  
+    display: inline;  
+    margin: 0 15px;  
+}  
+
+a {  
+    color: white;  
+    text-decoration: none;  
+}  
+
+.profile-pic {  
+    width: 200px;  
+    height: auto;  
+    border-radius: 50%;  
+    margin-top: 20px;  
+}  
+
+footer {  
+    background-color: #333;  
+    color: white;  
+    text-align: center;  
+    padding: 10px 0;  
+    position: relative;  
+    bottom: 0;  
+    width: 100%;  
+}  
+
+h2 {  
+    color: #4CAF50;  
+}  
+
+form {  
+    margin: 20px 0;  
+}  
+
+form label {  
+    display: block;  
+    margin-bottom: 5px;  
+}  
+
+form input, form textarea {  
+    width: 100%;  
+    padding: 10px;  
+    margin-bottom: 10px;  
+    border: 1px solid #ccc;  
+    border-radius: 4px;  
+}  
+
+button {  
+    background-color: #4CAF50;  
+    color: white;  
+    padding: 10px 15px;  
+    border: none;  
+    border-radius: 5px;  
+    cursor: pointer;  
+}  
+
+button:hover {  
+    background-color: #45a049;  
+}
+body {  
+    font-family: Arial, sans-serif;  
+    margin: 0;  
+    padding: 0;  
+    line-height: 1.6;  
+
+    /* 设置背景图片 */  
+    background-image: url('alxy.jpg'); /* 将 'mybackground.jpg' 改为您实际文件名 */  
+    background-size: cover; /* 使背景图片覆盖整个页面 */  
+    background-position: center; /* 背景图片居中显示 */  
+    background-repeat: no-repeat; /* 不重复背景图片 */  
+    height: 100vh; /* 确保背景图像至少占满全屏高度 */  
+}
+html, body {  
+    height: 100%; /* 使html和body占满100%高度 */  
+    margin: 0;    /* 清除默认边距 */  
+}  
+
+body {  
+    display: flex;               /* 启用弹性布局 */  
+    flex-direction: column;      /* 垂直排列子元素 */  
+}  
+
+main {  
+    flex: 1;                    /* 主内容区占据剩余空间 */  
+}  
+
+footer {  
+    background-color: #333; /* 页脚背景颜色 */  
+    color: white;           /* 页脚文本颜色 */  
+    text-align: center;     /* 内容居中 */  
+    padding: 10px 0;        /* 内边距 */  
+}
+body {  
+    margin: 0;  
+    font-family: Arial, sans-serif;  
+    background-image: url('alxy.jpg'); /* 设置背景图像 */  
+    background-size: cover; /* 背景图像覆盖整个区域 */  
+    background-position: center; /* 背景图像居中 */  
+}  
+
+header {  
+    background-color: rgba(255, 255, 255, 0.0); /* 白色背景，透明度为0.8 */  
+    position: absolute; /* 绝对定位，使其不占用空间 */  
+    top: 0;  /* 平顶对齐 */  
+    left: 0;  
+    width: 100%;  
+    padding: 20px; /* 内边距 */  
+    text-align: center;  
+}  
+
+main {  
+    padding-top: 80px; /* 保证内容不被顶部遮挡 */  
+}  
+
+footer {  
+    background-color: #333;  
+    color: white;  
+    text-align: center;  
+    padding: 10px 0; 
