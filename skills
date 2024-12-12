@@ -1,0 +1,35 @@
+<!DOCTYPE html>  
+<html lang="zh">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>技能</title>  
+    <link rel="stylesheet" href="styles.css">  
+</head>  
+<body>  
+    <header>  
+        <h1>我的技能</h1>  
+        <nav>  
+            <ul>  
+                <li><a href="index.html">首页</a></li>  
+                <li><a href="about.html">关于我</a></li>  
+                <li><a href="skills.html">技能</a></li>  
+                <li><a href="experience.html">工作经历</a></li>  
+                <li><a href="contact.html">联系我</a></li>  
+            </ul>  
+        </nav>  
+    </header>  
+    <main>  
+        <h2>我的专业技能</h2>  
+        <ul>  
+            <li>编程语言：HTML, CSS, JavaScript</li>  
+            <li>软件：Photoshop, Illustrator, VS Code</li>  
+            <li>软技能：沟通能力、团队合作、解决问题</li>  
+            <li>外语：英语（初级）、俄语（初级）</li>  
+        </ul>  
+    </main>  
+    <footer>  
+        <p>© 2024 [周晨]. 保留所有权利.</p>  
+    </footer>  
+</body>  
+</html>
